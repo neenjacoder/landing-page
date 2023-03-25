@@ -1,0 +1,38 @@
+/* BODY START */
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* HEADER START */
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.headertitle {
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+}
+.links {
+    gap: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 0;
+}
+/* SECTION 1 START */
+
+/* SECTION 2 START */
+
+/* SECTION 3 START */
+
+/* SECTION 4 START */
+
+/* FOOTER START */
