@@ -3,7 +3,6 @@
     display: flex;
     flex-direction: column;
 }
-
 /* HEADER START */
 .header {
     display: flex;
@@ -11,7 +10,6 @@
     align-items: center;
     background-color: #1F2937;
 }
-
 .headertitle {
     color: white;
     font-size: 48px;
@@ -20,7 +18,6 @@
 .links {
     gap: 50px;
 }
-
 a {
     color: white;
     text-decoration: none;
@@ -28,7 +25,18 @@ a {
     padding: 0;
 }
 /* SECTION 1 START */
-
+.one {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+.onetitle {
+    color: white;
+}
+.oneleft {
+    display: flex;
+    flex-direction: column;
+}
 /* SECTION 2 START */
 
 /* SECTION 3 START */
